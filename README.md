@@ -5,6 +5,12 @@
 ### Programming M5Atom S3
 Programming [NX13A_walking.ino](M5AtomS3/NX13A_walking/NX13A_walking.ino) M5Atom S3 with Arduino IDE 
 
+#### Arduino Librairies
+Arduino Librairies:
+* [M5AtomS3](https://github.com/m5stack/M5AtomS3) for M5AtomS3.h
+* [DabbleESP32](https://github.com/STEMpedia/DabbleESP32)
+
+
 
 ### Connection
 
