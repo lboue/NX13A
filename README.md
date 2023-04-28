@@ -1,6 +1,7 @@
 # NX13A
 ### Summary
-6 axis biped robot with M5Atom S3
+Blog post :
+[6 axis biped robot with M5Atom S3](http://blog.robotakao.jp/blog-entry-479.html)
 
 ### Programming M5Atom S3
 Programming [NX13A_walking.ino](M5AtomS3/NX13A_walking/NX13A_walking.ino) M5Atom S3 with Arduino IDE 
