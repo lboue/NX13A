@@ -30,6 +30,10 @@ Arduino Librairies:
 
 
 ### Remote control
+The remote control uses the iPhone application called Dabble. Dabble is a versatile project interaction & Bluetooth controller app for Arduino, ESP32.
+
+* [Dabble - Bluetooth Controller for iOS](https://apps.apple.com/us/app/dabble-bluetooth-controller/id1472734455) 
+
 ![Remote control](Dabble_control.jpg)
 
 
